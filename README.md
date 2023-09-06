@@ -20,7 +20,7 @@ Avaya Experience Platform™ makes it easy to connect everything—voice, video,
 ## Avaya Experience Platform™ APIs
 Avaya Experience Platform™ offers public APIs enabling customers to extend the core functionality to build additional experiences. 
 
-Avaya Experience Platform™ APIs provide a powerful toolkit for contact centers to elevate their customer service to new heights. By leveraging automation, AI, and custom integrations, businesses can deliver effortless experiences, connect with customers across various channels, and optimize overall contact center performance. The result is improved customer satisfaction, increased operational efficiency, and a competitive advantage in today's ever-evolving business landscape.
+[Avaya Experience Platform™ APIs](https://developers.avayacloud.com/onecloud-ccaas) provide a powerful toolkit for contact centers to elevate their customer service to new heights. By leveraging automation, AI, and custom integrations, businesses can deliver effortless experiences, connect with customers across various channels, and optimize overall contact center performance. The result is improved customer satisfaction, increased operational efficiency, and a competitive advantage in today's ever-evolving business landscape.
 
 Through Avaya Experience Platform™ APIs, businesses can automate various processes to streamline operations and improve efficiency. Automated call routing ensures customers are connected to the right agent quickly, reducing wait times and enhancing satisfaction. With AI-powered chatbots and virtual assistants, routine inquiries can be handled 24/7, freeing up agents to focus on more complex issues. Natural language processing and sentiment analysis capabilities also enable intelligent call handling, understanding customer emotions, and adapting responses accordingly.
 
@@ -29,37 +29,51 @@ Furthermore, businesses can create custom third-party integrations that align wi
 
 ## Contents
 
-- [Avaya Experience Platform Sample Applications](#sample-applications)
-- [Avaya Experience Platform SDKs](#sdks)
-- [Avaya Workspaces Sample Widgets](#sample-widgets)
-
+- [Avaya Experience Platform™ Sample Applications](#sample-applications)
+- [Avaya Experience Platform™ SDKs](#sdks)
+- [Avaya Workspaces Widgets](#workspaces-widgets)
+- [Other Resources](#other-resources)
 
 ## Sample Applications
 
-Sample applications leveraging [Avaya Experience Platform APIs](https://developers.avayacloud.com) and third-party intergrations
+Sample applications leveraging [Avaya Experience Platform™ APIs](https://developers.avayacloud.com/onecloud-ccaas) and third-party intergrations
 
-- [SMS Messaging Connector](http://example.com)
-- [Chat SDK Reference Client](http://example.com)
-- [Messaging SDK Reference Client](http://example.com)
+- [Chat SDK Reference Client - Coming Soon!](#)
 
 ## SDKs
 
 ### Digital
-- [Chat SDK](http://example.com)
-- [Messaging SDK](http://example.com)
+- [Chat JavaScript SDK - Coming Soon!](#)
+- [Messaging SDK - Coming Soon!](#)
 
 ### Voice
-- [WebRTC Voice SDK](http://example.com)
+- Coming Soon!
 
 ### Video
-- [WebRTC Voice SDK](http://example.com)
+- Coming Soon!
 
-## Sample Widgets
-Sample custom widgets leveraging [Avaya Experience Platform APIs](https://developers.avayacloud.com) and the Workspaces Widget Framework SDK.
+## Workspaces Widgets
 
-- [CLID Selector](http://example.com)
-- [Agent Queues & Attributes Manager](http://example.com)
+### Workspaces Basic Widgets
+
+Basic sample widgets showcasing [Workspaces Widget Framework SDK](https://documentation.workspaces.avayacloud.com/widget-framework/docs/api-reference/introduction)'s Events & Methods.
+
+- [Workspaces Basic Widgets](https://github.com/AvayaExperiencePlatform/workspaces-basic-sample-widgets)
+
+### Sample Custom Widgets
+Sample custom widgets leveraging [Workspaces Widget Framework SDK](https://documentation.workspaces.avayacloud.com/widget-framework/docs/api-reference/introduction) & [Avaya Experience Platform™ APIs](https://developers.avayacloud.com/onecloud-ccaas).
+
+- [Getting Started - React](https://github.com/AvayaExperiencePlatform/getting-started-widget-react)
+- [CLID Selector](https://github.com/AvayaExperiencePlatform/clid-selector-widget)
+- [Agent Queues & Attributes Manager](https://github.com/AvayaExperiencePlatform/agent-matching-config-widget)
+
+## Other Resources
+- [Avaya Neo](https://design.avayacloud.com/): Build applications and widgets with the same look and feel as Avaya Experience Platform™ applications.
+    - [Avaya Neo React](https://www.npmjs.com/package/@avaya/neo-react)
+    - [Avaya Neo CSS Framework](https://www.npmjs.com/package/@avaya/neo) 
+- [Avaya Experience Platform™ Postman Documentation](https://www.postman.com/avaya-axp/workspace/avaya-experience-platform/overview): Postman collections loaded with latest Avaya Experience Platform™ APIs, ready to go.
+
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contribution.md) first.
