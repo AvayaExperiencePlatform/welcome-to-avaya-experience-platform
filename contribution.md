@@ -1,16 +1,21 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
-
----
-
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Check Existing Entries: Before suggesting an addition, please check to ensure the resource is not already listed. We strive to avoid duplicates to keep the list tidy and easy to navigate.
+
+- Suggesting New Entries: To suggest a new entry, please create a new issue or pull request. In your suggestion, include the following:
+
+  - The name of the resource.
+  - A direct link to it.
+  - A short, descriptive summary of the resource and why it's awesome.
+  - Use the Proper Format: Ensure your submission matches the format and style of the list. Entries should be placed in the appropriate category and listed in alphabetical order.
+
+- Quality Over Quantity: We prioritize high-quality resources that provide unique value. Please only suggest resources that you believe are truly awesome and beneficial to others.
+
+- Review Process: All submissions will be reviewed for appropriateness, relevance, and quality. We reserve the right to accept, reject, or request modifications to your submission.
+
+- Stay on Topic: Ensure that your contribution is relevant to the specific theme and purpose of our Awesome List.
 
 Thank you for your suggestions!
 
