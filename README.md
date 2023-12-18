@@ -39,19 +39,18 @@ Furthermore, businesses can create custom third-party integrations that align wi
 Sample applications leveraging [Avaya Experience Platform™ APIs](https://developers.avayacloud.com/avaya-experience-platform) and third-party intergrations
 
 - [Sample SMS - Custom Messaging Connector](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
-- [Chat SDK Reference Client - Coming Soon!](#)
 
 ## SDKs
 
 ### Digital
-- [Chat JavaScript SDK - Coming Soon!](#)
-- [Messaging SDK - Coming Soon!](#)
+- Chat JavaScript SDK - Coming Soon!
+- Messaging SDK - Coming Soon!
 
 ### Voice
-- [WebRTC SDK - Coming Soon!](#)
+- WebRTC SDK - Coming Soon!
 
 ### Video
-- [WebRTC SDK - Coming Soon!](#)
+- WebRTC SDK - Coming Soon!
 
 ## Workspaces Widgets
 
