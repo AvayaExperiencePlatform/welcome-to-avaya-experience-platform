@@ -38,6 +38,8 @@ Furthermore, businesses can create custom third-party integrations that align wi
 
 Sample applications leveraging [Avaya Experience Platform™ APIs](https://developers.avayacloud.com/avaya-experience-platform) and third-party integrations
 
+> :bulb: These sample applications are provided **for demonstration purposes only** and is not intended for production use. We assume no responsibility for any issues arising from their use.
+
 - [Sample SMS - Custom Messaging Connector](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
 
 ## SDKs
@@ -62,6 +64,8 @@ Basic sample widgets showcasing [Workspaces Widget Framework SDK](https://docume
 
 ### Sample Custom Widgets
 Sample custom widgets leveraging [Workspaces Widget Framework SDK](https://documentation.workspaces.avayacloud.com/widget-framework/docs/api-reference/introduction) & [Avaya Experience Platform™ APIs](https://developers.avayacloud.com/avaya-experience-platform).
+
+> :bulb: These sample widgets are provided **for demonstration purposes only** and is not intended for production use. We assume no responsibility for any issues arising from their use.
 
 - [Getting Started - React](https://github.com/AvayaExperiencePlatform/getting-started-widget-react)
 - [CLID Selector](https://github.com/AvayaExperiencePlatform/clid-selector-widget)
