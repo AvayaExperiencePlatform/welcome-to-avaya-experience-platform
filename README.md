@@ -36,7 +36,7 @@ Furthermore, businesses can create custom third-party integrations that align wi
 
 ## Sample Applications
 
-Sample applications leveraging [Avaya Experience Platform™ APIs](https://developers.avayacloud.com/avaya-experience-platform) and third-party intergrations
+Sample applications leveraging [Avaya Experience Platform™ APIs](https://developers.avayacloud.com/avaya-experience-platform) and third-party integrations
 
 - [Sample SMS - Custom Messaging Connector](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
 
@@ -69,8 +69,8 @@ Sample custom widgets leveraging [Workspaces Widget Framework SDK](https://docum
 
 ## Other Resources
 - [Avaya Neo](https://design.avayacloud.com/): Build applications and widgets with the same look and feel as Avaya Experience Platform™ applications.
-    - [Avaya Neo React](https://www.npmjs.com/package/@avaya/neo-react)
-    - [Avaya Neo CSS Framework](https://www.npmjs.com/package/@avaya/neo) 
+    - [Avaya Neo React](https://www.npmjs.com/package/@avaya/neo-react).
+    - [Avaya Neo CSS Framework](https://www.npmjs.com/package/@avaya/neo).
 - [Avaya Experience Platform™ Postman Documentation](https://www.postman.com/avaya-axp/workspace/avaya-experience-platform/overview): Postman collections loaded with latest Avaya Experience Platform™ APIs, ready to go.
 
 ## Discussions
