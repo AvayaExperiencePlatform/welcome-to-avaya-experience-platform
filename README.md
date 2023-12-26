@@ -44,15 +44,10 @@ Sample applications leveraging [Avaya Experience Platform™ APIs](https://devel
 
 ## SDKs
 
-### Digital
-- Chat JavaScript SDK - Coming Soon!
-- Messaging SDK - Coming Soon!
+### Workspaces
 
-### Voice
-- WebRTC SDK - Coming Soon!
+- [Workspaces Widget Framework SDK](https://documentation.workspaces.avayacloud.com/widget-framework/docs/api-reference/introduction) 
 
-### Video
-- WebRTC SDK - Coming Soon!
 
 ## Workspaces Widgets
 
