@@ -41,9 +41,14 @@ Sample applications leveraging [Avaya Experience Platform™ APIs](https://devel
 > :bulb: These sample applications are provided **for demonstration purposes only** and are **not** intended for production use. We assume no responsibility for any issues arising from their use.
 
 - [Sample SMS - Custom Messaging Connector](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
-
+- [Chat SDK - Reference Client & Backend](https://github.com/AvayaExperiencePlatform/chat-sdk-js/tree/main/reference-applications)
+  
 ## SDKs
 
+### Digital
+
+- [Chat SDK - JavaScript](https://github.com/AvayaExperiencePlatform/chat-sdk-js)
+  
 ### Workspaces
 
 - [Workspaces Widget Framework SDK](https://documentation.workspaces.avayacloud.com/widget-framework/docs/api-reference/introduction) 
