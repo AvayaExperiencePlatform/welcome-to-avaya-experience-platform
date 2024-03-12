@@ -68,9 +68,10 @@ Sample custom widgets leveraging [Workspaces Widget Framework SDK](https://docum
 > :bulb: These sample widgets are provided **for demonstration purposes only** and are **not** intended for production use. We assume no responsibility for any issues arising from their use.
 
 - [Getting Started - React](https://github.com/AvayaExperiencePlatform/getting-started-widget-react)
-- [CLID Selector](https://github.com/AvayaExperiencePlatform/clid-selector-widget)
 - [Agent Queues & Attributes Manager](https://github.com/AvayaExperiencePlatform/agent-matching-config-widget)
-
+- [Queue Metrics](https://github.com/AvayaExperiencePlatform/queue-metrics-widget)
+- [CLID Selector](https://github.com/AvayaExperiencePlatform/clid-selector-widget)
+  
 ## Other Resources
 - [Avaya Neo](https://design.avayacloud.com/): Build applications and widgets with the same look and feel as Avaya Experience Platform™ applications.
     - [Avaya Neo React](https://www.npmjs.com/package/@avaya/neo-react).
