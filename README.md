@@ -40,13 +40,16 @@ Sample applications leveraging [Avaya Experience Platform™ APIs](https://devel
 
 > :bulb: These sample applications are provided **for demonstration purposes only** and are **not** intended for production use. We assume no responsibility for any issues arising from their use.
 
-- [Sample SMS - Custom Messaging Connector](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
+- [Custom Messaging Connector - Sample SMS Integration](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
+- [Omni SDK - Andriod Messaging Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-android/tree/master/sample-app-messaging)
+- [Omni SDK - Starter Kit (Authentication & Push Notifications)](https://github.com/AvayaExperiencePlatform/omni-sdk-starter-kit)
 - [Chat SDK - Reference Client & Backend](https://github.com/AvayaExperiencePlatform/chat-sdk-js/tree/main/reference-applications)
   
 ## SDKs
 
 ### Digital
 
+- [Omni SDK (Messaging) - Android](https://github.com/AvayaExperiencePlatform/omni-sdk-android)
 - [Chat SDK - JavaScript](https://github.com/AvayaExperiencePlatform/chat-sdk-js)
   
 ### Workspaces
