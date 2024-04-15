@@ -42,6 +42,7 @@ Sample applications leveraging [Avaya Experience Platform™ APIs](https://devel
 
 - [Custom Messaging Connector - Sample SMS Integration](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
 - [Omni SDK - Andriod Messaging Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-android/tree/master/sample-app-messaging)
+- [Omni SDK - Web Messaging Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-js/tree/master/sample-app-messaging)
 - [Omni SDK - Starter Kit (Authentication & Push Notifications)](https://github.com/AvayaExperiencePlatform/omni-sdk-starter-kit)
 - [Chat SDK - Reference Client & Backend](https://github.com/AvayaExperiencePlatform/chat-sdk-js/tree/main/reference-applications)
   
@@ -49,6 +50,7 @@ Sample applications leveraging [Avaya Experience Platform™ APIs](https://devel
 
 ### Digital
 
+- [Omni SDK (Messaging) - JavaScript (Web)](https://github.com/AvayaExperiencePlatform/omni-sdk-js)
 - [Omni SDK (Messaging) - Android](https://github.com/AvayaExperiencePlatform/omni-sdk-android)
 - [Chat SDK - JavaScript](https://github.com/AvayaExperiencePlatform/chat-sdk-js)
   
