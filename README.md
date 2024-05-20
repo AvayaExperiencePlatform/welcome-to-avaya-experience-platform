@@ -29,10 +29,24 @@ Furthermore, businesses can create custom third-party integrations that align wi
 
 ## Content
 
-- [Avaya Experience Platform™ Sample Applications](#sample-applications)
 - [Avaya Experience Platform™ SDKs](#sdks)
+- [Avaya Experience Platform™ Sample Applications](#sample-applications)
 - [Avaya Workspaces Widgets](#workspaces-widgets)
 - [Other Resources](#other-resources)
+
+## SDKs
+
+### Digital
+
+- [Omni SDK (Messaging) - **JavaScript (Web)**](https://github.com/AvayaExperiencePlatform/omni-sdk-js)
+- [Omni SDK (Messaging & WebRTC Calling) - **iOS**](https://github.com/AvayaExperiencePlatform/omni-sdk-ios)
+- [Omni SDK (Messaging & WebRTC Calling) - **Android**](https://github.com/AvayaExperiencePlatform/omni-sdk-android)
+- [Chat SDK - JavaScript](https://github.com/AvayaExperiencePlatform/chat-sdk-js)
+  
+### Workspaces
+
+- [Workspaces Widget Framework SDK](https://documentation.workspaces.avayacloud.com/widget-framework/docs/api-reference/introduction) 
+
 
 ## Sample Applications
 
@@ -41,24 +55,14 @@ Sample applications leveraging [Avaya Experience Platform™ APIs](https://devel
 > :bulb: These sample applications are provided **for demonstration purposes only** and are **not** intended for production use. We assume no responsibility for any issues arising from their use.
 
 - [Custom Messaging Connector - Sample SMS Integration](https://github.com/AvayaExperiencePlatform/sms-async-messaging-connector-sample)
-- [Omni SDK - Andriod Messaging Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-android/tree/master/sample-app-messaging)
-- [Omni SDK - Web Messaging Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-js/tree/master/sample-app-messaging)
+- [Omni SDK - **Android Messaging** Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-android/tree/master/sample-app-messaging)
+- [Omni SDK - **Android Calling** Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-android/tree/master/sample-app-calling)
+- [Omni SDK - **iOS Messaging** Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-ios/tree/master/MessagingSample)
+- [Omni SDK - **iOS Calling** Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-ios/tree/master/CallingSample)
+- [Omni SDK - **Web Messaging** Sample App](https://github.com/AvayaExperiencePlatform/omni-sdk-js/tree/master/sample-app-messaging)
 - [Omni SDK - Starter Kit (Authentication & Push Notifications)](https://github.com/AvayaExperiencePlatform/omni-sdk-starter-kit)
 - [Chat SDK - Reference Client & Backend](https://github.com/AvayaExperiencePlatform/chat-sdk-js/tree/main/reference-applications)
   
-## SDKs
-
-### Digital
-
-- [Omni SDK (Messaging) - JavaScript (Web)](https://github.com/AvayaExperiencePlatform/omni-sdk-js)
-- [Omni SDK (Messaging) - Android](https://github.com/AvayaExperiencePlatform/omni-sdk-android)
-- [Chat SDK - JavaScript](https://github.com/AvayaExperiencePlatform/chat-sdk-js)
-  
-### Workspaces
-
-- [Workspaces Widget Framework SDK](https://documentation.workspaces.avayacloud.com/widget-framework/docs/api-reference/introduction) 
-
-
 ## Workspaces Widgets
 
 ### Workspaces Basic Widgets
